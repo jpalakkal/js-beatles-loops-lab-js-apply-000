@@ -32,9 +32,9 @@ function johnLennonFacts(arr) {
  johnLennonFacts(facts)
  
  
- function iLoveTheBeatles(number) { 
+function iLoveTheBeatles(number) { 
  
- 
+   let newArray = []
  
  
  
