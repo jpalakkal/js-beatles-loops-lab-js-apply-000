@@ -32,6 +32,11 @@ function johnLennonFacts(arr) {
  johnLennonFacts(facts)
  
  
+ function iLoveTheBeatles(number) { 
+ 
+ 
+ 
+ 
  
  
  
